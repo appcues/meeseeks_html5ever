@@ -13,5 +13,5 @@ rustler = "0.21"
 
 html5ever = "0.22"
 xml5ever = "0.12"
-markup5ever = "0.7"
+markup5ever = "0.11"
 tendril = "0.4"
