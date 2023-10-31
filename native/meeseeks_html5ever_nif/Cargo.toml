@@ -12,6 +12,6 @@ crate-type = ["dylib"]
 rustler = "0.21"
 
 html5ever = "0.22"
-xml5ever = "0.12"
+xml5ever = "0.17"
 markup5ever = "0.7"
 tendril = "0.4"
